@@ -1,2 +1,2 @@
 ip.mundosupremo.net:7777=ms
-144.217.43.10:7777=supremo
+144.217.43.10:7777=ms
