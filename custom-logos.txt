@@ -1,2 +1,4 @@
 135.148.70.134:7777=bpn
 ip.brasilplaynexus.com:7777=bpn
+ip.redeparadox.com:7777=paradox
+ip2.redeparadox.com:7777=paradox2
