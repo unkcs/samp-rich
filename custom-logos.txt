@@ -1,4 +1,4 @@
-135.148.70.134:7777=bpn
-ip.brasilplaynexus.com:7777=bpn
+ip.mundosupremo.net:7777=ms
+135.148.153.107=supremorp
 ip.redeparadox.com:7777=paradox
 ip2.redeparadox.com:7777=paradox
