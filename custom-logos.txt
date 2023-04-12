@@ -1,4 +1,5 @@
 ip.mundosupremo.net:7777=ms
 135.148.153.107:7777=supremo
+135.148.153.107:6666=supremo
 ip.redeparadox.com:7777=paradox
 ip2.redeparadox.com:7777=paradox
