@@ -4,4 +4,5 @@ ip.mundosupremo.net:7777=ms
 ip.redeparadox.com:7777=paradox
 ip2.redeparadox.com:7777=paradox
 135.148.140.57:7777=besters
+besters.supremoroleplay.com:7777=besters
 
