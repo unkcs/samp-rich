@@ -2,8 +2,6 @@ ip.mundosupremo.net:7777=ms
 135.148.153.107:6666=supremo
 ip.redeparadox.com:7777=paradox
 ip2.redeparadox.com:7777=paradox
-135.148.140.57:7777=besters
-besters.supremoroleplay.com:7777=besters
-135.148.153.107:7777=supremorpg
 127.0.0.1=vortex
+135.148.76.230:7777=rush
 
