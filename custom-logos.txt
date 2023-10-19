@@ -3,5 +3,6 @@ ip.mundosupremo.net:7777=ms
 ip.redeparadox.com:7777=paradox
 ip2.redeparadox.com:7777=paradox
 127.0.0.1=vortex
+131.196.196.88:7777=vortex
 135.148.76.230:7777=tokyo
 
